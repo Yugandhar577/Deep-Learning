@@ -14,7 +14,8 @@ This folder contains Deep Learning course material, practical assignments, and t
 | [Assignment 6](Assignment%206/README.md) | CNN image classification for tomato leaf disease detection. |
 | [Assignment 7](Assignment%207/README.md) | SVM/KNN credit-default notebook and a separate transfer-learning report. |
 | [Assignment 8](Assignment%208/README.md) | Pretrained BERT sentiment analysis on SST-2. |
-| [Assignment 9](Assignment%209/README.md) | Placeholder folder; no assignment materials added yet. |
+| [Assignment 9](Assignment%209/README.md) | Pretrained Vision Transformer and ResNet18 comparison on CIFAR-10. |
+| [Assignment 10](Assignment%2010/README.md) | Speech-command classification with speech-to-text and text-to-speech. |
 | [CP](CP/README.md) | GOD'S EYE course-project proposal, report, and associated assets. |
 | [Theory](Theory/README.md) | Deep Learning lecture notes, PDFs, and reference images. |
 

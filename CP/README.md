@@ -6,7 +6,6 @@ This folder contains documentation for **Knowledge Distillation for Efficient Ob
 
 - `DL_CP_Report.docx` — editable course-project report, including team details, project scope, and technical content.
 - `DL_CP_Report_final.docx` — final-named version of the course-project report.
-- `DL_CP_Report_formatting_corrected.docx` — formatting-corrected version of the report.
 - `GODS_EYE_Complete_Research_Report.docx` — detailed research report.
 - `GODS_EYE_Industry_Conference_Report.docx` — conference-oriented report.
 - `GODS_EYE_Teacher_Student_Integrated_Baseline_Report.pdf` — PDF baseline report for the teacher–student/knowledge-distillation approach.
