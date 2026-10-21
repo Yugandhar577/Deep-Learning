@@ -5,5 +5,6 @@ This practical builds an eight-class speech-command classifier using log-mel spe
 ## Files
 
 - `DL_Assignment-10_12414973.docx` — practical implementation sheet containing the code, evaluation, and results.
+- `Assignment_10.ipynb` — executable notebook for the classifier, STT, TTS, and combined voice-assistant demonstration.
 
-There is currently no separate notebook in this folder. The report's code is written for Google Colab paths under `/content/`. It downloads the Mini Speech Commands dataset and pretrained speech models. Main dependencies include PyTorch, torchvision, Transformers, librosa, soundfile, jiwer, scikit-learn, pandas, Matplotlib, and tqdm.
+The notebook uses Google Colab paths under `/content/`. It downloads the Mini Speech Commands dataset and pretrained speech models. Main dependencies include PyTorch, Transformers, librosa, soundfile, jiwer, scikit-learn, pandas, Matplotlib, and tqdm.

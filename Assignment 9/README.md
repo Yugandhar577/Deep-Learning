@@ -5,5 +5,6 @@ This practical compares image classification on CIFAR-10 using two pretrained fe
 ## Files
 
 - `DL_Assignment-9_12414973.docx` — practical implementation sheet with code, evaluation, and results.
+- `Assignment_9.ipynb` — executable CIFAR-10 model-comparison notebook.
 
-There is currently no separate notebook in this folder. The code in the report uses PyTorch/torchvision, NumPy, pandas, Matplotlib, scikit-learn, and tqdm. CIFAR-10 and pretrained model weights are downloaded when the code runs.
+The notebook uses PyTorch/torchvision, NumPy, pandas, Matplotlib, scikit-learn, and tqdm. CIFAR-10 and pretrained model weights are downloaded when the code runs.

@@ -5,5 +5,6 @@ This practical compares SimpleRNN, LSTM, and GRU models for binary sentiment cla
 ## Files
 
 - `DL_Assignment-5_12414973.docx` — practical implementation sheet with the algorithm, code, and results.
+- `Assignment_5_DL.ipynb` — executable model-training and comparison notebook.
 
-There is currently no separate notebook in this folder. The report's code uses TensorFlow/Keras, NumPy, pandas, Matplotlib, and scikit-learn. The IMDB dataset is loaded through Keras.
+The notebook uses TensorFlow/Keras, NumPy, pandas, Matplotlib, and scikit-learn. The IMDB dataset is loaded through Keras.
